@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/danielcampoverde/static/css/main.9946de8d.css",
-    "main.js": "/danielcampoverde/static/js/main.fe29c4df.js",
+    "main.css": "/danielcampoverde/static/css/main.22eccba7.css",
+    "main.js": "/danielcampoverde/static/js/main.3e1d7698.js",
     "static/media/resorti.png": "/danielcampoverde/static/media/resorti.ea3462bab394202c149b.png",
     "static/media/franks.png": "/danielcampoverde/static/media/franks.edeb508682c5619ead6f.png",
     "static/media/martysi.png": "/danielcampoverde/static/media/martysi.5406a335956ec1b69d3f.png",
     "index.html": "/danielcampoverde/index.html",
-    "main.9946de8d.css.map": "/danielcampoverde/static/css/main.9946de8d.css.map",
-    "main.fe29c4df.js.map": "/danielcampoverde/static/js/main.fe29c4df.js.map"
+    "main.22eccba7.css.map": "/danielcampoverde/static/css/main.22eccba7.css.map",
+    "main.3e1d7698.js.map": "/danielcampoverde/static/js/main.3e1d7698.js.map"
   },
   "entrypoints": [
-    "static/css/main.9946de8d.css",
-    "static/js/main.fe29c4df.js"
+    "static/css/main.22eccba7.css",
+    "static/js/main.3e1d7698.js"
   ]
 }
